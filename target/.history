@@ -1,0 +1,6 @@
+compile
+:quit
+exit
+compile
+test
+exit
